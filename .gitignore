@@ -1,0 +1,4 @@
+__pycache__/
+*.pyc
+.venv/
+# NOTE: artifacts/ must be committed for deployment

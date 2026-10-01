@@ -1,0 +1,6 @@
+streamlit>=1.40,<1.50
+tensorflow-cpu>=2.16,<2.21
+plotly>=5.24,<7
+pandas>=2.0,<3
+numpy>=1.26,<3
+streamlit-keyup>=0.3.0
